@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+h1, h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: teal;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  color: black;
+}
+
+.ul-clean, .steps-lean {
+  font-size: 18px;
+  color: darkgray;
+}
+
+.ul-clean {
+  list-style: none;
+}
+
+.steps-lean {
+  text-align: left;
+}
+
+.nav {
+  /* display: inline; */
+  text-align: center;
+  list-style: none;
+}
+
+.centered {
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
